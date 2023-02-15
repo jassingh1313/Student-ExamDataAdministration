@@ -1,0 +1,44 @@
+Johnny Matt Wilson
+11/12/2002
+Computer Science 
+0
+504 
+1400
+505
+1250
+Stop
+503
+(10am, 12, 05, 2022)
+502
+(09am, 15, 02, 2023)
+501
+(09am, 10, 01, 2023)
+Stop
+Elizabeth Mary Johnson
+09/11/2001
+Computer Science 
+1
+504
+1300
+505
+1430
+Stop
+503
+(10am, 12, 05, 2022)
+502
+(09am, 15, 02, 2023)
+Stop
+Alexander Wright May
+06/09/2000
+Computer Science 
+2
+504
+1220
+505
+1530
+Stop
+502
+(09am, 15, 02, 2023)
+501
+(09am, 10, 01, 2023)
+Stop
